@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=140&section=header&text=Aminul%20Islam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:4285F4&height=180&section=header&text=Aminul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descAlignY=60&descSize=18" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
 
 <p align="center">
   <b>Android Application Development Trainer</b><br/>
