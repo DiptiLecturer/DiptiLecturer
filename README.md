@@ -1,30 +1,33 @@
-# Aminul Islam
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=140&section=header&text=Aminul%20Islam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+</p>
 
-🎓 Undergraduate Student | 👨‍🏫 Android Application Development Trainer  
-📱 Android (Kotlin & Jetpack Compose) | Firebase | MVVM
+<p align="center">
+  <b>Android Application Development Trainer</b><br/>
+  Kotlin • Jetpack Compose • Firebase • MVVM
+</p>
 
 ---
 
 ## Professional Summary
-I am an **Android Application Development Trainer** with strong academic grounding and hands-on industry-oriented teaching experience. My primary expertise lies in **Android development using Kotlin and Jetpack Compose**, with a focus on clean architecture, modern UI practices, and real-world app development.  
+I am an **Android Application Development Trainer** with strong academic grounding and hands-on teaching experience. My primary specialization is **Android development using Kotlin and Jetpack Compose**, focusing on modern architecture, clean code, and real-world applications.
 
-In addition to Android, I also **teach Flutter**, enabling students to understand cross-platform mobile development fundamentals.
+I also teach **Flutter** as a secondary skill to introduce cross-platform mobile development concepts.
 
 ---
 
 ## Academic & Teaching Profile
 - 🎓 Undergraduate Student (Computer Science & Engineering background)
-- 👨‍🏫 Assistant Trainer – **Android Mobile Application Development**
+- 👨‍🏫 Assistant Trainer – Android Mobile Application Development
 - 🏫 Training Institute: **DIPTI**
-- 📘 Experience in curriculum-based and project-based teaching
-- 🧠 Strong emphasis on problem-solving, architecture, and best practices
+- 📘 Curriculum-based & project-based teaching experience
 
 ---
 
 ## Technical Expertise
 
-### 📱 Android Development (Primary Focus)
-- Kotlin (Core, OOP, Coroutines)
+### 📱 Android (Primary Focus)
+- Kotlin (OOP, Coroutines)
 - Jetpack Compose
 - Android SDK & Jetpack Libraries
 - RecyclerView, ViewBinding
@@ -34,10 +37,10 @@ In addition to Android, I also **teach Flutter**, enabling students to understan
 - MVVM Architecture
 
 ### 🌍 Cross-Platform (Secondary)
-- Flutter (Fundamentals & UI)
+- Flutter (UI & Fundamentals)
 - Dart (Basics)
 
-### 🛠 Tools & Platforms
+### 🛠 Tools
 - Android Studio
 - Git & GitHub
 - Firebase Console
@@ -45,47 +48,61 @@ In addition to Android, I also **teach Flutter**, enabling students to understan
 
 ---
 
-## Teaching & Mentoring Areas
+## Teaching Areas
 - Android Fundamentals with Kotlin
 - UI Development (XML & Jetpack Compose)
 - Firebase Integration
-- API Consumption & JSON Handling
-- Local Storage with Room Database
+- API Integration
+- Local Storage with Room
 - Android App Architecture (MVVM)
-- Introductory Flutter for Cross-Platform Development
+- Introductory Flutter
 
 ---
 
 ## Current Focus
-- 🔹 Advanced Jetpack Compose
-- 🔹 Modern Android App Architecture
-- 🔹 Performance-optimized Android apps
-- 🔹 Structured Android learning paths for students
+- Advanced Jetpack Compose
+- Modern Android Architecture
+- Performance Optimization
+- Structured Android Learning Paths
 
 ---
 
-## GitHub Statistics
+## 🏆 Achievements & Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiptiLecturer&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiLecturer&layout=compact&hide_border=true)
-
----
-
-## Technology Badges
-
-![Kotlin](https://img.shields.io/badge/Kotlin-Professional-7F52FF?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Development-3DDC84?logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-4285F4?logo=android)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-Teaching-02569B?logo=flutter)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiptiLecturer&theme=flat&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## Contact & Professional Links
+## 📊 GitHub Activity & Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiptiLecturer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiptiLecturer&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiLecturer&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptiLecturer&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📫 Contact
 - 💼 GitHub: https://github.com/DiptiLecturer
-- 📧 Email: your-email@example.com
+- 📧 Email: aminulmunna02@gmail.com
 
 ---
 
-⭐ *This profile reflects my commitment to professional Android education and modern mobile application development.*
+⭐ *Focused on professional Android education and modern mobile application development.*
