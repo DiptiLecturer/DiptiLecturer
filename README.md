@@ -1,59 +1,91 @@
-# 👋 Hi, I'm Aminul Islam
+# Aminul Islam
 
-🎓 Undergraduate Student | 📱 Android App Developer | 👨‍🏫 Android Development Trainer - NSDA LEVEL 4 
-
-I am passionate about building modern Android applications using **Kotlin** and teaching students how to become industry-ready mobile app developers.
-
----
-
-## 🚀 About Me
-- 👨‍🏫 Trainer of **Android Mobile Application Development** at **DIPTI**
-- 📱 Experienced with **Kotlin, XML, Firebase, Room, Retrofit**
-- 🧠 Strong foundation in **OOP, MVVM, REST APIs**
-- 🌱 Currently learning **Flutter & Jetpack Compose**
-- 🎯 Focused on clean code and real-world projects
+🎓 Undergraduate Student | 👨‍🏫 Android Application Development Trainer  
+📱 Android (Kotlin & Jetpack Compose) | Firebase | MVVM
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Frameworks**
-- Kotlin, Java
-- Android SDK, Jetpack
-- Flutter (learning)
+## Professional Summary
+I am an **Android Application Development Trainer** with strong academic grounding and hands-on industry-oriented teaching experience. My primary expertise lies in **Android development using Kotlin and Jetpack Compose**, with a focus on clean architecture, modern UI practices, and real-world app development.  
 
-**Android Development**
+In addition to Android, I also **teach Flutter**, enabling students to understand cross-platform mobile development fundamentals.
+
+---
+
+## Academic & Teaching Profile
+- 🎓 Undergraduate Student (Computer Science & Engineering background)
+- 👨‍🏫 Assistant Trainer – **Android Mobile Application Development**
+- 🏫 Training Institute: **DIPTI**
+- 📘 Experience in curriculum-based and project-based teaching
+- 🧠 Strong emphasis on problem-solving, architecture, and best practices
+
+---
+
+## Technical Expertise
+
+### 📱 Android Development (Primary Focus)
+- Kotlin (Core, OOP, Coroutines)
+- Jetpack Compose
+- Android SDK & Jetpack Libraries
 - RecyclerView, ViewBinding
 - Room Database
 - Retrofit & REST APIs
-- Firebase Authentication & Firestore
+- Firebase Authentication, Firestore, Realtime Database
 - MVVM Architecture
 
-**Tools**
+### 🌍 Cross-Platform (Secondary)
+- Flutter (Fundamentals & UI)
+- Dart (Basics)
+
+### 🛠 Tools & Platforms
 - Android Studio
 - Git & GitHub
+- Firebase Console
 - Postman
 
 ---
 
-## 📚 Teaching & Training
-- Android Fundamentals (Kotlin)
-- UI Design with XML
+## Teaching & Mentoring Areas
+- Android Fundamentals with Kotlin
+- UI Development (XML & Jetpack Compose)
 - Firebase Integration
-- API Integration (JSONPlaceholder, FakeStore API)
-- Room Database Projects
+- API Consumption & JSON Handling
+- Local Storage with Room Database
+- Android App Architecture (MVVM)
+- Introductory Flutter for Cross-Platform Development
 
 ---
 
-## 📌 Current Focus
-- 🔥 Advanced Android Architecture
-- 🌍 Cross-platform development with Flutter
-- 🧩 Real-world app projects for students
+## Current Focus
+- 🔹 Advanced Jetpack Compose
+- 🔹 Modern Android App Architecture
+- 🔹 Performance-optimized Android apps
+- 🔹 Structured Android learning paths for students
 
 ---
 
-## 📫 Connect With Me
-- 💼 GitHub: [https://github.com/DiptiLecturer](https://github.com/DiptiLecturer)
-- 📧 Email: aminulmunna02@gmail.com
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiptiLecturer&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiLecturer&layout=compact&hide_border=true)
+
 ---
 
-⭐ *Feel free to explore my repositories and learning projects!*
+## Technology Badges
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Professional-7F52FF?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Development-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-4285F4?logo=android)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-Teaching-02569B?logo=flutter)
+
+---
+
+## Contact & Professional Links
+- 💼 GitHub: https://github.com/DiptiLecturer
+- 📧 Email: your-email@example.com
+
+---
+
+⭐ *This profile reflects my commitment to professional Android education and modern mobile application development.*
