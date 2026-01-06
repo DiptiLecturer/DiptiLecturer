@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Aminul Islam
 
-🎓 Undergraduate Student | 📱 Android App Developer | 👨‍🏫 Android Development Trainer  
+🎓 Undergraduate Student | 📱 Android App Developer | 👨‍🏫 Android Development Trainer - NSDA LEVEL 4 
 
 I am passionate about building modern Android applications using **Kotlin** and teaching students how to become industry-ready mobile app developers.
 
 ---
 
 ## 🚀 About Me
-- 👨‍🏫 Assistant Trainer of **Android Mobile Application Development** at **DIPTI**
+- 👨‍🏫 Trainer of **Android Mobile Application Development** at **DIPTI**
 - 📱 Experienced with **Kotlin, XML, Firebase, Room, Retrofit**
 - 🧠 Strong foundation in **OOP, MVVM, REST APIs**
 - 🌱 Currently learning **Flutter & Jetpack Compose**
@@ -53,8 +53,7 @@ I am passionate about building modern Android applications using **Kotlin** and 
 
 ## 📫 Connect With Me
 - 💼 GitHub: [https://github.com/DiptiLecturer](https://github.com/DiptiLecturer)
-- 📧 Email: your-email@example.com
-
+- 📧 Email: aminulmunna02@gmail.com
 ---
 
 ⭐ *Feel free to explore my repositories and learning projects!*
