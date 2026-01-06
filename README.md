@@ -72,8 +72,9 @@ I also teach **Flutter** as a secondary skill to introduce cross-platform mobile
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiptiLecturer&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DiptiLecturer&theme=radical&row=1&column=6&no-frame=true" />
 </p>
+
 
 ---
 
