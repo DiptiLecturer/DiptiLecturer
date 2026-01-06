@@ -1,17 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:4285F4&height=180&section=header&text=Aminul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:4285F4&height=180&section=header&text=Aminul%20Islam%20Munna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-
-<p align="center">
-  <b>Android Application Development Trainer</b><br/>
-  Kotlin • Jetpack Compose • Firebase • MVVM
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ---
@@ -82,18 +77,18 @@ I also teach **Flutter** as a secondary skill to introduce cross-platform mobile
 
 ---
 
-## 📊 GitHub Activity & Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiptiLecturer&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiptiLecturer&show_icons=true&include_all_commits=true&count_private=true&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiptiLecturer&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiptiLecturer&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiLecturer&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiLecturer&layout=compact&theme=light" />
 </p>
 
 ---
@@ -101,14 +96,15 @@ I also teach **Flutter** as a secondary skill to introduce cross-platform mobile
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptiLecturer&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptiLecturer&theme=react-dark&area=true" />
 </p>
 
 ---
 
 ## 📫 Contact
-- 💼 GitHub: https://github.com/DiptiLecturer
-- 📧 Email: aminulmunna02@gmail.com
+- 💼 GitHub: [https://github.com/DiptiLecturer](https://github.com/DiptiLecturer)
+- 📧 Personal Email: aminulmunna02@gmail.com
+- 📧 Official Email: lecturer3.amad.nsda@dipti.com.bd
 
 ---
 
