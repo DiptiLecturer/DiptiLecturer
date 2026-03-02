@@ -12,11 +12,22 @@
 ---
 
 ### 🌑 Executive Summary
-Senior Android Developer and Technical Educator specializing in **Reactive Programming** and **Modern Android Architectures**. I bridge the gap between complex engineering and academic excellence.
+ Android Developer and Technical Educator specializing in **Reactive Programming** and **Modern Android Architectures**. I bridge the gap between complex engineering and academic excellence.
 
-* 🛠️ **Expertise:** Kotlin Coroutines, Flow, Dagger-Hilt, Clean Architecture.
+* 🛠️ **Expertise:** Kotlin Coroutines, Jetpack Compose,Flow, Dagger-Hilt, Clean Architecture.
 * 👨‍🏫 **Mentorship:** Leading Android development workshops and curriculum design.
 * 🚀 **Philosophy:** Building scalable, maintainable, and user-centric mobile experiences.
+
+---
+
+### 🏆 Excellence & Milestones
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DiptiLecturer&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptiLecturer&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -28,13 +39,6 @@ Senior Android Developer and Technical Educator specializing in **Reactive Progr
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiptiLecturer&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=7f52ff&fire=3DDC84" width="85%" />
-</p>
-
----
-
-### 🏆 Technical Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiptiLecturer&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -54,11 +58,10 @@ Senior Android Developer and Technical Educator specializing in **Reactive Progr
   <a href="mailto:aminulmunna02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="mailto:lecturer3.amad.nsda@dipti.com.bd">
+    <img src="https://img.shields.io/badge/Work-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://github.com/DiptiLecturer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptiLecturer&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
