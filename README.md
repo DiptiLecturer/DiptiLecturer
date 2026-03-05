@@ -22,11 +22,11 @@
 
 ### 🏆 Excellence & Milestones
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiptiLecturer&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DiptiLecturer&theme=sky&row=1&column=6&no-frame=true&margin-w=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptiLecturer&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiptiLecturer&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=7f52ff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
