@@ -9,9 +9,9 @@
 ---
 
 ### 🌑 Executive Summary
-Android Developer and Technical Educator specializing in **Reactive Programming** and **Modern Android Architectures**. I bridge the gap between complex engineering and academic excellence.
+Android Developer and Technical Educator specializing in **Modern Android Architectures**. I bridge the gap between complex engineering and academic excellence.
 
-* 🛠️ **Expertise:** Kotlin Coroutines, Jetpack Compose, Flow, Dagger-Hilt, Clean Architecture.
+* 🛠️ **Expertise:** Kotlin, Jetpack Compose.
 * 👨‍🏫 **Mentorship:** Leading Android development workshops and curriculum design.
 * 🚀 **Philosophy:** Building scalable, maintainable, and user-centric mobile experiences.
 
@@ -47,9 +47,9 @@ Android Developer and Technical Educator specializing in **Reactive Programming*
 ### 🛠️ Core Stack
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Architectures** | MVVM, MVI, Clean Architecture, Repository Pattern |
-| **Mobile Core** | Jetpack Compose, Room, WorkManager, Navigation Component |
-| **Networking** | Retrofit, OkHttp, Ktor, GraphQL |
+| **Architectures** | MVVM, MVI, Clean Architecture, Repository Pattern | S.O.L.I.D |
+| **Mobile Core** XML| Jetpack Compose, Room, WorkManager, Navigation Component | State Management
+| **Networking** | Retrofit, OkHttp, Ktor, REST API |
 | **CI/CD & DevOps** | GitHub Actions, Firebase App Distribution, Fastlane |
 
 ---
